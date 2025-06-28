@@ -21,8 +21,6 @@ highlight_name: true
 
 # Role/position/tagline
 role: Associate Professor
-  # - name: 
-  #   url: https://jsj.mju.edu.cn/6094/list.htm
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -94,7 +92,7 @@ work:
     company_logo: ''
     date_start: 2025-07-01
     date_end: ''
-    summary: |2-
+    summary: |-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit

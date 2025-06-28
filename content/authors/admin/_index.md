@@ -20,12 +20,14 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: 
+  - name: Associate Professor
+    url: https://jsj.mju.edu.cn/6094/list.htm
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Minjiang University
-    url: https://jsj.mju.edu.cn/6094/list.htm
+    url: https://jsj.mju.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

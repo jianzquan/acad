@@ -52,7 +52,7 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD: Xiamen University
+  - area: PhD Xiamen University
     # institution: Stanford University
     date_start: 2021-09-10
     date_end: 2025-06-30
@@ -61,7 +61,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng: Fuzhou University
+  - area: MEng Fuzhou University
     # institution: Massachusetts Institute of Technology
     date_start: 2018-09-01
     date_end: 2021-06-30
@@ -72,7 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc: Fuzhou University 
+  - area: BSc Fuzhou University 
     # institution: Massachusetts Institute of Technology
     date_start: 2011-09-01
     date_end: 2015-06-30

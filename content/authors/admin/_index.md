@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhongquan Jian (简忠权)
+title: Zhongquan Jian
 
 # # Name pronunciation (optional)
 # name_pronunciation: Zhongquan Jian

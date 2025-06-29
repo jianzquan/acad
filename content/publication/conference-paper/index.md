@@ -6,7 +6,7 @@ title: 'SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances As
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Yanhao Chen
+  - Robert Ford
 
 # Author notes (optional)
 author_notes:

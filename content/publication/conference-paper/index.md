@@ -1,16 +1,12 @@
 ---
-title: 'Supervised Exploratory Learning for Long-Tailed Visual Recognition'
+title: 'An example conference paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Yannhao Chen
-  - Yanchen Wang
-  - Junfeng Yao
-  - Meihong Wang
-  - Qingqiang Wu
+  - Robert Ford
 
 # Author notes (optional)
 author_notes:
